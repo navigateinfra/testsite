@@ -77,8 +77,6 @@ index_htm_files/45.jpg
 index_htm_files/45@2x.jpg
 index_htm_files/46.jpg
 index_htm_files/46@2x.jpg
-index_htm_files/47.png
-index_htm_files/47@2x.png
 index_htm_files/49.png
 index_htm_files/49@2x.png
 index_htm_files/50.png
@@ -89,8 +87,6 @@ index_htm_files/52.png
 index_htm_files/52@2x.png
 index_htm_files/53.png
 index_htm_files/53@2x.png
-index_htm_files/54.png
-index_htm_files/54@2x.png
 index_htm_files/57.png
 index_htm_files/57@2x.png
 index_htm_files/58.png
@@ -304,6 +300,10 @@ index_htm_files/173.png
 index_htm_files/173@2x.png
 index_htm_files/174.png
 index_htm_files/174@2x.png
+index_htm_files/184.png
+index_htm_files/184@2x.png
+index_htm_files/186.png
+index_htm_files/186@2x.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
